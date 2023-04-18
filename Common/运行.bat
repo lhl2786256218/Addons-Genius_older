@@ -1,0 +1,3 @@
+cd "Bin\"
+start "" "Addons Genius.exe"
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
